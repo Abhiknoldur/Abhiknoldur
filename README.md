@@ -53,7 +53,7 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Abhishek Baranwal | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhiknoldur&show_icons=true&theme=gotham" alt="Abhishek Baranwal | Stats" />
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="abhishekbaranwal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abhishekbaranwal?trk=profile-badge">ABHISHEK BARANWAL</a></div>
                 
