@@ -1,11 +1,11 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Abhishek Baranwal](https://www.linkedin.com/in/abhishekbaranwal)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]
 
-![alt text](https://github.com/Abhiknoldur/Abhiknoldur/blob/main/profile.jpeg) 
+![alt text](https://github.com/Abhiknoldur/Abhiknoldur/blob/main/Devops.jpeg) 
 
-![https://github.com/Abhiknoldur/Abhiknoldur/blob/main/cert--badge.jpg](https://www.credly.com/badges/d67be2e7-35c6-4648-9e5a-3dfb224019ac) 
+![https://www.credly.com/badges/d67be2e7-35c6-4648-9e5a-3dfb224019ac](https://github.com/Abhiknoldur/Abhiknoldur/blob/main/cert--badge.jpg) 
 
 
 ### My Tech Toolbox 🧰 
@@ -61,8 +61,11 @@
                 
 </details>
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{abhiknoldur}/count.svg)
 
+![DevOps-Roadmap](https://github.com/Abhiknoldur/Abhiknoldur/blob/main/devops-roadmap.png)
+ 
+ 
 
 [Wordpress]: https://abhishekbaranwal10.wordpress.com/author/abhishekbaranwal10/
 [Wordpress11]: https://abhishekbaranwal11.wordpress.com/  
