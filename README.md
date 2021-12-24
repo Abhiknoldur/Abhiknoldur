@@ -28,6 +28,7 @@
 </p>
 
 <p align="left">
+ 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abhishekbaranwal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abhishekbaranwal?trk=profile-badge">ABHISHEK BARANWAL</a></div>
@@ -47,12 +48,12 @@
 <!--* I'm looking to collaborate on Open source project-->
 
 ---
-#### [Wordpress]: https://abhishekbaranwal10.wordpress.com/author/abhishekbaranwal10/
-#### [Wordpress11]: https://abhishekbaranwal11.wordpress.com/  
-#### [Hackerank]: https://www.hackerrank.com/Aviburn
-#### [gmail]: https://gmail.com
-#### [linkedin]: https://www.linkedin.com/in/abhishekbaranwal
-#### [Facebook]: https://www.facebook.com/AviBurn
+#### [Wordpress](https://abhishekbaranwal10.wordpress.com/author/abhishekbaranwal10/)
+#### [Wordpress11](https://abhishekbaranwal11.wordpress.com/)
+#### [Hackerank](https://www.hackerrank.com/Aviburn)
+#### [gmail](https://gmail.com)
+#### [linkedin](https://www.linkedin.com/in/abhishekbaranwal)
+#### [Facebook](https://www.facebook.com/AviBurn)
 
 
 <table><tr><td valign="top" width="50%">
